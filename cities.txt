@@ -1,3 +1,7 @@
 Atlanta
 Boston
 Chicago
+Detroit
+Eldorado
+Fillmore
+Greenville
